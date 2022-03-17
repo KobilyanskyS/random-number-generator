@@ -1,0 +1,1 @@
+Simple telegram bot powered Aiogram for random numbers generation.
